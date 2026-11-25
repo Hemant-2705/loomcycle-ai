@@ -1,0 +1,7 @@
+loomcycle_env/
+__pycache__/
+*.pyc
+.env
+loomcycle.db
+uploads/
+test_images/
